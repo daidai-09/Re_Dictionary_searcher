@@ -20,3 +20,6 @@ Windows 10 / 11 (64bit)
   Version 6.0
   Created by Dictionary Searcher Project
 ========================================================================
+最新版の zip ファイルはこちらからダウンロードできます。<br>
+<br>
+[ReDicSer v6.0 をダウンロードする](https://github.com/user-attachments/files/26664823/ReDicSer_v6.0.zip)
